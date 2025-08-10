@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="3457">
+    <display-name lang="en">beIN SPORTS 1</display-name>
+    <icon src="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png"/>
+  </channel>
+  <programme start="20250809231500 +0000" stop="20250810011000 +0000" channel="3457">
+    <title lang="en">Bayern München vs Internazionale - UEFA Champions League 2024/25 Quarter Finals - 1st Leg</title>
+    <desc lang="en">This will be the 10th meeting between Bayern Munich and Internazionale in European competition, with the German side winning five of the previous nine, including the last time they faced each other in the UEFA Champions League. Internazionale have lost four of their seven games against Bayern Munich in the UEFA Champions League, but have eliminated them in both of their meetings in the knockout stages of the competition: 2-0 in the 2009-10 final and progressing on away goals over two legs in 2010-11 in the last 16.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250810011000 +0000" stop="20250810031000 +0000" channel="3457">
+    <title lang="en">Rangers vs Athletic Club - UEFA Europa League 2024/25 - Quarter Final's 1st Leg</title>
+    <desc lang="en">Rangers and Athletic Club faced in the 1968-69 Inter-Cities Fairs Cup in the quarter-final – the Gers won 4-1 in the first leg at home, before Athletic won 2-0 in the second leg, with the Scottish side going through 4-3 on aggregate. Athletic Club have lost both of their major European visits to Scotland, losing 1-0 to Dunfermline Athletic in 1965 and 4-1 to Rangers in 1969, both in the Inter-Cities Fairs Cup.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250810031000 +0000" stop="20250810045500 +0000" channel="3457">
+    <title lang="en">Tottenham Hotspur vs Eintracht Frankfurt - UEFA Europa League 2024/25 - Quarter Final's 1st Leg</title>
+    <desc lang="en">Tottenham Hotspur and Eintracht Frankfurt last faced in the UEFA Champions League group stages in 2022-23, with Spurs drawing 0-0 in Germany and winning 3-2 at the Tottenham Hotspur Stadium that season. The only previous European knockout meeting between Spurs and Eintracht Frankfurt was in the 1981-82 Cup Winners’ Cup quarter-final – Spurs won 2-0 at home before losing 2-1 away in the second leg, but progressed 3-2 on aggregate.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250810045500 +0000" stop="20250810064000 +0000" channel="3457">
+    <title lang="en">PSG vs Aston Villa - UEFA Champions League 2024/25 Quarter Finals - 1st Leg</title>
+    <desc lang="en">Paris SG and Aston Villa will meet for the first time in European competition, with this just the second UEFA Champions League quarter-final between French and English sides in the last eight campaigns. Paris SG eliminated Liverpool in the last 16 of this season’s UEFA Champions League, after having exited the competition in each of their last three knockout stage meetings with English sides.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250810064000 +0000" stop="20250810083500 +0000" channel="3457">
+    <title lang="en">Barcelona vs Borussia Dortmund - UEFA Champions League 2024/25 Quarter Finals - 1st Leg</title>
+    <desc lang="en">Barcelona are unbeaten in their five meetings with Borussia Dortmund in European competition, including a victory over them earlier in this season’s UEFA Champions League. Only against Lyon, Napoli and Werder Bremen have they played more in Europe without losing. While Borussia Dortmund haven’t won any of their five games against Barcelona, they’ve only gone six consecutive European matches without beating an opponent against two other sides; one of which is another Spanish team.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250810083500 +0000" stop="20250810110500 +0000" channel="3457">
+    <title lang="en">Manchester United vs Olympique Lyonnais - UEFA Europa League 2024/25 - Quater Final's 2nd Leg</title>
+    <desc lang="en">This will be the third time that Manchester United have faced Lyon in European competition at Old Trafford, with the Red Devils winning both prior meetings. Lyon have lost just one of their last nine European games against sides from England, a 3-0 defeat to West Ham during the 2021-22 UEFA Europa League.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250810110500 +0000" stop="20250810130000 +0000" channel="3457">
+    <title lang="en">Athletic Club vs Rangers - UEFA Europa League 2024/25 - Quater Final's 2nd Leg</title>
+    <desc lang="en">Athletic Club have only hosted Rangers once before, beating them 2-0 in the Fairs Cup in April 1969. The only other time Athletic have hosted a Scottish club was in two games against Dunfermline in 1965, also in the Fairs Cup, winning 1-0 and then 2-1 in a deciding game. Rangers won 3-2 away at Real Betis in their last European game in Spain, having gone 13 away games without winning there beforehand between 1962 and 2018.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250810130000 +0000" stop="20250810170200 +0000" channel="3457">
+    <title lang="en">Crystal Palace vs Liverpool - FA Community Shield 2025</title>
+    <desc lang="en">Live and exclusive only on beIN, the traditional curtain raiser to the English Premier League season, the FA Community Shield. The match will be between Liverpool FC and Crystal Palace FC, the winners of the previous season's Premier League and FA Cup. It will be played at Wembley Stadium, London.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Fa Community Shield</category>
+  </programme>
+  <programme start="20250810170200 +0000" stop="20250810173000 +0000" channel="3457">
+    <title lang="en">PSG vs Inter - Final - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250810173000 +0000" stop="20250810180000 +0000" channel="3457">
+    <title lang="en">Tottenham vs Man Utd - Final - Mini Match - UEFA Europa League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Europa League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250810180000 +0000" stop="20250810183100 +0000" channel="3457">
+    <title lang="en">Secret of Success : Adam Ounass, A Symbol of Skill</title>
+    <desc lang="en">At the beginning the signs of his distinction emerged , his talent and uniqueness set him apart , from childhood , he wrote the first letters of his success story. He practices , played and followed the path of learning striving hard and listening attentively to his coaches .When it s comes to discussing the best , ADAM OUNASS Is no different from other football enthusiasts , he has his preferences and tastes , yet he always refers to statistics relying on facts and career trajectories before forming an opinion. Adam Ounass in the secret of success spots on his very special career from the land of his birth to Qatar with Al Sadd team.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250810183100 +0000" stop="20250810190000 +0000" channel="3457">
+    <title lang="en">EPL Stories 2025/2026 - BRUNO GUIMARÃES</title>
+    <desc lang="en">Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.</desc>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20250810190000 +0000" stop="20250810220000 +0000" channel="3457">
+    <title lang="en">England vs Spain - UEFA Women's EURO 2025 - Championship Switzerland - Final's</title>
+    <desc lang="en">The UEFA Women's EURO 2025 – Championship is the 14th edition of the UEFA Women’s Championship, Switzerland is hosting the tournament from 2 till 27 July 2025 with 16 national teams competing to win the title.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250810220000 +0000" stop="20250811020000 +0000" channel="3457">
+    <title lang="en">Crystal Palace vs Liverpool - FA Community Shield 2025</title>
+    <desc lang="en">Live and exclusive only on beIN, the traditional curtain raiser to the English Premier League season, the FA Community Shield. The match will be between Liverpool FC and Crystal Palace FC, the winners of the previous season's Premier League and FA Cup. It will be played at Wembley Stadium, London.</desc>
+    <category lang="en">Fa Community Shield</category>
+  </programme>
+  <programme start="20250811020000 +0000" stop="20250811035000 +0000" channel="3457">
+    <title lang="en">Arsenal vs PSG - UEFA Champions League 2024/25 Semi Finals - 1st Leg</title>
+    <desc lang="en">This will be the sixth meeting between Arsenal and Paris SG, while the Gunners are unbeaten across the previous five. Arsenal are the opponent that the French side have faced the most times in European competition without ever winning. Arsenal have already beaten Paris SG in the UEFA Champions League this season, winning 2-0 at the Emirates Stadium in the league phase last October. Only one English side have beaten Paris SG twice in a single edition of the competition: Manchester City in the 2020-21 semi-finals.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250811035000 +0000" stop="20250811044500 +0000" channel="3457">
+    <title lang="en">UEFA UCL Magazine2024/2025 - Season Review</title>
+    <desc lang="en">A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League. This season is the first in the new format, with 36 participating teams in a league phase replacing the previous Group stage. All matches from the UEFA Champions League are live and exclusive only on beIN.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250811044500 +0000" stop="20250811063000 +0000" channel="3457">
+    <title lang="en">Crystal Palace vs Liverpool - FA Community Shield 2025</title>
+    <desc lang="en">Live and exclusive only on beIN, the traditional curtain raiser to the English Premier League season, the FA Community Shield. The match will be between Liverpool FC and Crystal Palace FC, the winners of the previous season's Premier League and FA Cup. It will be played at Wembley Stadium, London.</desc>
+    <category lang="en">Fa Community Shield</category>
+  </programme>
+  <programme start="20250811063000 +0000" stop="20250811081000 +0000" channel="3457">
+    <title lang="en">Bodø / Glimt vs Tottenham Hotspur - UEFA Europa League 2024/25 - Sime Final's 2nd Leg</title>
+    <desc lang="en">In the history of the UEFA Europa League since its rebrand ahead of the 2009-10 season, there have been 92 instances of a side winning the first leg of a knockout match on home soil by a 2+ goal margin, of which only nine have failed to progress in the overall tie. All eight prior semi-finalists to achieve the feat have progressed to the final. Across their major European history, Bodø/Glimt have lost all four of their matches against English opposition, including their only one on home soil vs Arsenal in October 2022. Each of the other three defeats have seen the Norwegian side concede exactly three goals.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250811081000 +0000" stop="20250811083800 +0000" channel="3457">
+    <title lang="en">EPL Stories 2025/2026 - BRUNO GUIMARÃES</title>
+    <desc lang="en">Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.</desc>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20250811083800 +0000" stop="20250811110500 +0000" channel="3457">
+    <title lang="en">Internazionale vs Barcelona - UEFA Champions League 2024/25 Semi Finals - 2nd Leg</title>
+    <desc lang="en">This will be the 18th major European meeting between Internazionale and Barcelona, with only Bayern Munich vs Real Madrid, Juventus vs Real Madrid and Inter vs Real Madrid played more often in history. Each of the last two games between the teams have ended 3-3, in the UEFA Champions League in October 2022 and this season’s first leg. Barcelona have won just one of their six away UEFA Champions League matches against Internazionale, a 2-1 win in December 2019. Overall, Barca have managed just five wins in 24 away games in Italy, their lowest win ratio in any non-Spanish nation in the competition.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250811110500 +0000" stop="20250811125000 +0000" channel="3457">
+    <title lang="en">PSG vs Arsenal - UEFA Champions League 2024/25 Semi Finals - 2nd Leg</title>
+    <desc lang="en">PSG’s 1-0 win the first leg was their first ever victory in six attempts against Arsenal. Both of their home games against the Gunners have finished 1-1. Having been unbeaten in their first 13 away games against French sides in all competitions, Arsenal have now lost their last two visits against Rennes in 2019 and Lens in 2023.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250811125000 +0000" stop="20250811143800 +0000" channel="3457">
+    <title lang="en">Athletic Club vs Manchester United - UEFA Europa League 2024/25 - Semi Final's 1st Leg</title>
+    <desc lang="en">This is the first European meeting between Athletic Club and Manchester United since the 2011-12 UEFA Europa League last 16 – under Marcelo Bielsa, Athletic won both legs and eventually reached that season’s final. Manchester United have lost three out of four European matches against Athletic Club, with their one win coming back in February 1957 in the second leg of that season’s European Cup quarter-final, a 3-0 victory at Old Trafford which took them into the semi-final 6-5 on aggregate.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250811143800 +0000" stop="20250811163000 +0000" channel="3457">
+    <title lang="en">Crystal Palace vs Liverpool - FA Community Shield 2025</title>
+    <desc lang="en">Live and exclusive only on beIN, the traditional curtain raiser to the English Premier League season, the FA Community Shield. The match will be between Liverpool FC and Crystal Palace FC, the winners of the previous season's Premier League and FA Cup. It will be played at Wembley Stadium, London.</desc>
+    <category lang="en">Fa Community Shield</category>
+  </programme>
+  <programme start="20250811163000 +0000" stop="20250811173000 +0000" channel="3457">
+    <title lang="en">EPL Season Preview - 2025/2026</title>
+    <desc lang="en">All 380 matches from the English Premier league are live and exclusive only on beIN.All matches are available live with a choice of Arabic or English commentary.The season will consist of 33 weekends and five midweek rounds of matches.Liverpool are the defending champions, having won their second Premier League title.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250811173000 +0000" stop="20250811191500 +0000" channel="3457">
+    <title lang="en">Arsenal vs PSG - UEFA Champions League 2024/25 Semi Finals - 1st Leg</title>
+    <desc lang="en">This will be the sixth meeting between Arsenal and Paris SG, while the Gunners are unbeaten across the previous five. Arsenal are the opponent that the French side have faced the most times in European competition without ever winning. Arsenal have already beaten Paris SG in the UEFA Champions League this season, winning 2-0 at the Emirates Stadium in the league phase last October. Only one English side have beaten Paris SG twice in a single edition of the competition: Manchester City in the 2020-21 semi-finals.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250811191500 +0000" stop="20250811210000 +0000" channel="3457">
+    <title lang="en">Barcelona vs Internazionale - UEFA Champions League 2024/25 Semi Finals - 1st Leg</title>
+    <desc lang="en">Barcelona and Internazionale have faced each other on 16 previous occasions in Europe, with the Spanish side winning exactly half of those. They are winless in the most recent two, however, which came in the group stages of the 2022-23 UEFA Champions League. This will be just the second time Barcelona and Internazionale have met in the knockout stages of the European Cup/UEFA Champions League, with both coming precisely at the semi-final stage. The previous one – played in 2009-10 – saw José Mourinho’s Inter eliminate the reigning champions 3-2 on aggregate.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250811210000 +0000" stop="20250811224900 +0000" channel="3457">
+    <title lang="en">PSG vs Internazionale - UEFA Champions League 2024/25 Final</title>
+    <desc lang="en">This is the first ever competitive meeting between Inter and Paris SG. It’s also the second European Cup/UEFA Champions League final between an Italian and a French side, after Marseille beat Milan 1-0 in 1993 – the only time a French side has ever won the trophy. That final was also held in Munich. This is Inter’s seventh appearance in the European Cup/UEFA Champions League final, winning the trophy three times. They did lose their last final match, going down 1-0 against Manchester City in 2023.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250811224900 +0000" stop="20250812003000 +0000" channel="3457">
+    <title lang="en">Crystal Palace vs Liverpool - FA Community Shield 2025</title>
+    <desc lang="en">Live and exclusive only on beIN, the traditional curtain raiser to the English Premier League season, the FA Community Shield. The match will be between Liverpool FC and Crystal Palace FC, the winners of the previous season's Premier League and FA Cup. It will be played at Wembley Stadium, London.</desc>
+    <category lang="en">Fa Community Shield</category>
+  </programme>
+  <programme start="20250812003000 +0000" stop="20250812033000 +0000" channel="3457">
+    <title lang="en">England vs Spain - UEFA Women's EURO 2025 - Championship Switzerland - Final's</title>
+    <desc lang="en">The UEFA Women's EURO 2025 – Championship is the 14th edition of the UEFA Women’s Championship, Switzerland is hosting the tournament from 2 till 27 July 2025 with 16 national teams competing to win the title.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250812033000 +0000" stop="20250812052800 +0000" channel="3457">
+    <title lang="en">Tottenham vs Manchester Utd - UEFA Europa League 2024/25 - Final</title>
+    <desc lang="en">The 2024-25 UEFA Europa League final will be the sixth all-English major European competition final, and the third of those to involve Tottenham Hotspur, after the 1971-72 UEFA Cup final and the 2018-19 UEFA Champions League final. This will be the fourth UEFA Europa League final to be contested between two sides from the same nation, after 2011, 2012, and 2019.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250812052800 +0000" stop="20250812071700 +0000" channel="3457">
+    <title lang="en">PSG vs Internazionale - UEFA Champions League 2024/25 Final</title>
+    <desc lang="en">This is the first ever competitive meeting between Inter and Paris SG. It’s also the second European Cup/UEFA Champions League final between an Italian and a French side, after Marseille beat Milan 1-0 in 1993 – the only time a French side has ever won the trophy. That final was also held in Munich. This is Inter’s seventh appearance in the European Cup/UEFA Champions League final, winning the trophy three times. They did lose their last final match, going down 1-0 against Manchester City in 2023.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250812071700 +0000" stop="20250812090000 +0000" channel="3457">
+    <title lang="en">Crystal Palace vs Liverpool - FA Community Shield 2025</title>
+    <desc lang="en">Live and exclusive only on beIN, the traditional curtain raiser to the English Premier League season, the FA Community Shield. The match will be between Liverpool FC and Crystal Palace FC, the winners of the previous season's Premier League and FA Cup. It will be played at Wembley Stadium, London.</desc>
+    <category lang="en">Fa Community Shield</category>
+  </programme>
+  <programme start="20250812090000 +0000" stop="20250812120000 +0000" channel="3457">
+    <title lang="en">England vs Spain - UEFA Women's EURO 2025 - Championship Switzerland - Final's</title>
+    <desc lang="en">The UEFA Women's EURO 2025 – Championship is the 14th edition of the UEFA Women’s Championship, Switzerland is hosting the tournament from 2 till 27 July 2025 with 16 national teams competing to win the title.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250812120000 +0000" stop="20250812140000 +0000" channel="3457">
+    <title lang="en">Tottenham vs Manchester Utd - UEFA Europa League 2024/25 - Final</title>
+    <desc lang="en">The 2024-25 UEFA Europa League final will be the sixth all-English major European competition final, and the third of those to involve Tottenham Hotspur, after the 1971-72 UEFA Cup final and the 2018-19 UEFA Champions League final. This will be the fourth UEFA Europa League final to be contested between two sides from the same nation, after 2011, 2012, and 2019.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250812140000 +0000" stop="20250812150000 +0000" channel="3457">
+    <title lang="en">Gold Standard Ep6</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250812150000 +0000" stop="20250812153000 +0000" channel="3457">
+    <title lang="en">EPL Stories 2025/2026 - BRUNO GUIMARÃES</title>
+    <desc lang="en">Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.</desc>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20250812153000 +0000" stop="20250812182900 +0000" channel="3457">
+    <title lang="en">Al-Duhail vs Sepahan - AFC Champions League Elite 2025/2026 - Qualification</title>
+    <desc lang="en">Al Duhail vs SepahanAt 12-8-2025, MECCA 19:00, GMT 16:00AFC Champions League Elite QualifyingSeason 2025/2026PlayOffsKhalifa International Stadium Stadium</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250812182900 +0000" stop="20250812190000 +0000" channel="3457">
+    <title lang="en">Secret of Success : Adam Ounass, A Symbol of Skill</title>
+    <desc lang="en">At the beginning the signs of his distinction emerged , his talent and uniqueness set him apart , from childhood , he wrote the first letters of his success story. He practices , played and followed the path of learning striving hard and listening attentively to his coaches .When it s comes to discussing the best , ADAM OUNASS Is no different from other football enthusiasts , he has his preferences and tastes , yet he always refers to statistics relying on facts and career trajectories before forming an opinion. Adam Ounass in the secret of success spots on his very special career from the land of his birth to Qatar with Al Sadd team.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250812190000 +0000" stop="20250812210000 +0000" channel="3457">
+    <title lang="en">Tottenham vs Manchester Utd - UEFA Europa League 2024/25 - Final</title>
+    <desc lang="en">The 2024-25 UEFA Europa League final will be the sixth all-English major European competition final, and the third of those to involve Tottenham Hotspur, after the 1971-72 UEFA Cup final and the 2018-19 UEFA Champions League final. This will be the fourth UEFA Europa League final to be contested between two sides from the same nation, after 2011, 2012, and 2019.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250812210000 +0000" stop="20250812235500 +0000" channel="3457">
+    <title lang="en">England vs Spain - UEFA Women's EURO 2025 - Championship Switzerland - Final's</title>
+    <desc lang="en">The UEFA Women's EURO 2025 – Championship is the 14th edition of the UEFA Women’s Championship, Switzerland is hosting the tournament from 2 till 27 July 2025 with 16 national teams competing to win the title.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20250812235500 +0000" stop="20250813004500 +0000" channel="3457">
+    <title lang="en">UEFA UCL Magazine2024/2025 - Season Review</title>
+    <desc lang="en">A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League. This season is the first in the new format, with 36 participating teams in a league phase replacing the previous Group stage. All matches from the UEFA Champions League are live and exclusive only on beIN.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813004500 +0000" stop="20250813011500 +0000" channel="3457">
+    <title lang="en">Liverpool vs PSG - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813011500 +0000" stop="20250813014500 +0000" channel="3457">
+    <title lang="en">Inside PSG (#1) : Liverpool – PSG</title>
+    <desc lang="en">Paris Saint-Germain has qualified for the Champions League final for the second time after a performance that delighted its fans. The team achieved excellent results in this season's European competition. Let's remember the two matches of PSG in R16.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813014500 +0000" stop="20250813021500 +0000" channel="3457">
+    <title lang="en">Aston Villa vs PSG - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813021500 +0000" stop="20250813024500 +0000" channel="3457">
+    <title lang="en">Inside PSG (#2) : Aston Villa – PSG</title>
+    <desc lang="en">Paris Saint-Germain has qualified for the Champions League final for the second time after a performance that delighted its fans. The team achieved excellent results in this season's European competition. Let's remember the two matches of PSG in quarter finals.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813024500 +0000" stop="20250813031500 +0000" channel="3457">
+    <title lang="en">PSG vs Arsenal - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813031500 +0000" stop="20250813034500 +0000" channel="3457">
+    <title lang="en">Inside PSG (#3) : PSG - Arsenal</title>
+    <desc lang="en">Paris Saint-Germain has qualified for the Champions League final for the second time after a performance that delighted its fans. The team achieved excellent results in this season's European competition. Let's remember the two matches of PSG in semi-finals.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813034500 +0000" stop="20250813041500 +0000" channel="3457">
+    <title lang="en">Tottenham vs Man Utd - Final - Mini Match - UEFA Europa League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Europa League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813041500 +0000" stop="20250813043000 +0000" channel="3457">
+    <title lang="en">In The Footsteps of Donnarumma</title>
+    <desc lang="en">Gianluigi Donnarumma, the goalkeeper of Paris SG, just had a tremendous season. beIN went to Italy to discover his first steps as goalkeeper</desc>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20250813043000 +0000" stop="20250813050000 +0000" channel="3457">
+    <title lang="en">PSG vs Inter - Final - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813050000 +0000" stop="20250813060000 +0000" channel="3457">
+    <title lang="en">Inside PSG, The Final</title>
+    <desc lang="en">Paris SG won the Final UCL 2025 against Inter Milan, beIN takes you inside the team to show you all the stories behind this success.</desc>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20250813060000 +0000" stop="20250813080000 +0000" channel="3457">
+    <title lang="en">Tottenham vs Manchester Utd - UEFA Europa League 2024/25 - Final</title>
+    <desc lang="en">The 2024-25 UEFA Europa League final will be the sixth all-English major European competition final, and the third of those to involve Tottenham Hotspur, after the 1971-72 UEFA Cup final and the 2018-19 UEFA Champions League final. This will be the fourth UEFA Europa League final to be contested between two sides from the same nation, after 2011, 2012, and 2019.</desc>
+    <category lang="en">Uefa Europa League</category>
+  </programme>
+  <programme start="20250813080000 +0000" stop="20250813100000 +0000" channel="3457">
+    <title lang="en">PSG vs Internazionale - UEFA Champions League 2024/25 Final</title>
+    <desc lang="en">This is the first ever competitive meeting between Inter and Paris SG. It’s also the second European Cup/UEFA Champions League final between an Italian and a French side, after Marseille beat Milan 1-0 in 1993 – the only time a French side has ever won the trophy. That final was also held in Munich. This is Inter’s seventh appearance in the European Cup/UEFA Champions League final, winning the trophy three times. They did lose their last final match, going down 1-0 against Manchester City in 2023.</desc>
+    <category lang="en">Uefa Champions League</category>
+  </programme>
+  <programme start="20250813100000 +0000" stop="20250813110000 +0000" channel="3457">
+    <title lang="en">UEL/UECL Magazine 2024/2025 - UEL Season Review</title>
+    <desc lang="en">All the very best action from the UEFA Europa League and UEFA Europa Conference League</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813110000 +0000" stop="20250813120000 +0000" channel="3457">
+    <title lang="en">UEFA UCL Magazine2024/2025 - Season Review</title>
+    <desc lang="en">A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League. This season is the first in the new format, with 36 participating teams in a league phase replacing the previous Group stage. All matches from the UEFA Champions League are live and exclusive only on beIN.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813120000 +0000" stop="20250813123000 +0000" channel="3457">
+    <title lang="en">Liverpool vs PSG - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813123000 +0000" stop="20250813130000 +0000" channel="3457">
+    <title lang="en">Inside PSG (#1) : Liverpool – PSG</title>
+    <desc lang="en">Paris Saint-Germain has qualified for the Champions League final for the second time after a performance that delighted its fans. The team achieved excellent results in this season's European competition. Let's remember the two matches of PSG in R16.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813130000 +0000" stop="20250813133000 +0000" channel="3457">
+    <title lang="en">Aston Villa vs PSG - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813133000 +0000" stop="20250813140000 +0000" channel="3457">
+    <title lang="en">Inside PSG (#2) : Aston Villa – PSG</title>
+    <desc lang="en">Paris Saint-Germain has qualified for the Champions League final for the second time after a performance that delighted its fans. The team achieved excellent results in this season's European competition. Let's remember the two matches of PSG in quarter finals.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813140000 +0000" stop="20250813143000 +0000" channel="3457">
+    <title lang="en">PSG vs Arsenal - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813143000 +0000" stop="20250813150000 +0000" channel="3457">
+    <title lang="en">Inside PSG (#3) : PSG - Arsenal</title>
+    <desc lang="en">Paris Saint-Germain has qualified for the Champions League final for the second time after a performance that delighted its fans. The team achieved excellent results in this season's European competition. Let's remember the two matches of PSG in semi-finals.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813150000 +0000" stop="20250813153000 +0000" channel="3457">
+    <title lang="en">Tottenham vs Man Utd - Final - Mini Match - UEFA Europa League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Europa League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813153000 +0000" stop="20250813154500 +0000" channel="3457">
+    <title lang="en">In The Footsteps of Donnarumma</title>
+    <desc lang="en">Gianluigi Donnarumma, the goalkeeper of Paris SG, just had a tremendous season. beIN went to Italy to discover his first steps as goalkeeper</desc>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20250813154500 +0000" stop="20250813161500 +0000" channel="3457">
+    <title lang="en">PSG vs Inter - Final - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813161500 +0000" stop="20250813170000 +0000" channel="3457">
+    <title lang="en">Inside PSG, The Final</title>
+    <desc lang="en">Paris SG won the Final UCL 2025 against Inter Milan, beIN takes you inside the team to show you all the stories behind this success.</desc>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20250813170000 +0000" stop="20250813220000 +0000" channel="3457">
+    <title lang="en">PSG vs Tottenham Hotspur - UEFA Super Cup - 2025</title>
+    <category lang="en">Live</category>
+    <category lang="en">Uefa Super Cup</category>
+  </programme>
+  <programme start="20250813220000 +0000" stop="20250813230000 +0000" channel="3457">
+    <title lang="en">UEFA UCL Magazine2024/2025 - Season Review</title>
+    <desc lang="en">A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League. This season is the first in the new format, with 36 participating teams in a league phase replacing the previous Group stage. All matches from the UEFA Champions League are live and exclusive only on beIN.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250813230000 +0000" stop="20250813233000 +0000" channel="3457">
+    <title lang="en">Liverpool vs PSG - Mini Match - UEFA Champions League 2024/25</title>
+    <desc lang="en">Extended Highlights - UEFA Champions League 2024/25</desc>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250813233000 +0000" stop="20250814000000 +0000" channel="3457">
+    <title lang="en">Inside PSG (#1) : Liverpool – PSG</title>
+    <desc lang="en">Paris Saint-Germain has qualified for the Champions League final for the second time after a performance that delighted its fans. The team achieved excellent results in this season's European competition. Let's remember the two matches of PSG in R16.</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+</tv>
